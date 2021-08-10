@@ -18,7 +18,11 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Links to walkthrough video
 
+* google drive
+
 [link to a walk-through video of how the app works](https://drive.google.com/file/d/1O6vy--c8fZmiECuKYJVcC-QfwJ308taR/view?usp=sharing)
+
+* Youtube
 
 [link to a walk-through video of how the app works](https://youtu.be/Fd8-HntRUXc)
 
@@ -42,17 +46,17 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Installation
 
-Install packages to use the app
+Run these commands to Install packages to use the app
 
-npm init
+* npm init
 
-npm install sequelize
+* npm install sequelize
 
-npm install mysql2
+* npm install mysql2
 
-npm install dotenv
+* npm install dotenv
 
-npm install express
+* npm install express
 
 ## Usage 
 
